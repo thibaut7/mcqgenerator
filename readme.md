@@ -1,0 +1,1 @@
+This a project about mcq generator using openAI and streamlit
